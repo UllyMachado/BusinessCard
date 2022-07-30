@@ -10,4 +10,5 @@
     <string name="label_confirmar">Confirmar</string>
     <string name="label_show_sucess">Cartão cadastrado com sucesso.</string>
     <string name="botao_de_adicionar_contato">Botão de adicionar contato</string>
+    <string name="label_share">Compartilhar</string>
 </resources>
